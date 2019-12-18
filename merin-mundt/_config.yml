@@ -1,0 +1,27 @@
+title: Merin Mundt - Software Engineering Portfolio.
+baseurl: "/"
+url: "https://merinmundt.com" # the base hostname & protocol for your site, e.g. http://example.com
+social:
+  name: Merin Mundt
+  links:
+    - title: github
+      url: https://github.com/merinmundt
+    - title: linkedin
+      url: https://www.linkedin.com/in/merin-mundt/
+    - title: stackoverflow
+      url: https://stackoverflow.com/
+    - title: twitter
+      url: https://twitter.com/merinmundt
+    - title: email
+      url: mailto:merinivy@gmail.com
+
+# Build settings
+plugins:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _scss/
+  style: compressed
+
+exclude:
+  - README.md

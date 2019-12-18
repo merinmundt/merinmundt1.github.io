@@ -1,0 +1,24 @@
+
+- title: Parlor Games
+  description: Colaborated with teammates to developed a series of House hold games.
+  year: 2018
+  category: Android App Development 
+  link: 'parlorgames'
+  preview: ./assets/img/parlorgames/parlor-games.png
+  color: "#FFFFFF"
+
+- title: Farming Island initiative 
+  description: Create a game engine using the Light Weight Java Game (lwjgl) library
+  year: 2018
+  category: Java Application 
+  link: 'parlorgames'
+  preview: 
+  color: "#FFFFFF"
+
+- title: Dungeon Map Game
+  description: Create a game engine using the Light Weight Java Game (lwjgl) library
+  year: 2018
+  category: C/C++
+  link: 'parlorgames'
+  preview: 
+  color: "#FFFFFF"
